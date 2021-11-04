@@ -10,4 +10,4 @@ i have 11 years old!
 
 - 📧 <a href="mailto:info@smartnima.com">info@smartnima.com</a>
 - website : <a href="https://smartnima.com">smartnima.com</a>
-- telegram : <a href="https://t.me/Nima_fanniasl">@Nima_fanniasl</a>
+- <img src="https://raw.githubusercontent.com/nimafanniasl/nimafanniasl/main/Telegram-Icon-300x300.png" width="20" height="20" alt="telegram: "> <a href="https://t.me/Nima_fanniasl">@Nima_fanniasl</a>
