@@ -7,7 +7,7 @@
 |_| \_|_|_| |_| |_|\__,_|  |_| \__,_|_| |_|_| |_|_|\__,_|___/_|  (_)
 ```
 
-### Hi there 👋
+### Hi there ! , This is Nima!
 
 i am Nima from smartnima Channels And smartnima.com Website! <br>
 i have 11 years old!
