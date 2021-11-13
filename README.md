@@ -9,18 +9,19 @@
 
 ### Hi there ! , This is Nima!
 
+<p align="center">
+  <img src="https://gpvc.arturio.dev/nimafanniasl" alt="profile views"> •
+ <a href="https://smartnima.com">Website</a> • <a href="https://aparat.com/smartnima">Aparat</a> • <a href="https://t.me/Nima_fanniasl">Telegram</a>
+</p>
+
+-------------------------------------------
 i am Nima from smartnima Channels And smartnima.com Website! <br>
 i have 11 years old!
 
 
 - 🔭 I’m currently working on python , c++ , Front-end , LPIC1 & 2 And etc.
-
-<h2>✉️ Ways to contact me:</h2>
-
-- 📧 <a href="mailto:info@smartnima.com">info@smartnima.com</a>
-- website : <a href="https://smartnima.com">smartnima.com</a>
-- telegram : <a href="https://t.me/Nima_fanniasl">@Nima_fanniasl</a>
-- aparat : <a href="https://aparat.com/smartnima">aparat.com/smartnima</a>
+- 📫 How to reach me: [`info@smartnima.com`](mailto:info@smartnima.com)
+- 💬 Ask me anything about my Projects!
 
 ----------------------------
 
