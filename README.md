@@ -21,3 +21,7 @@ i have 11 years old!
 - website : <a href="https://smartnima.com">smartnima.com</a>
 - telegram : <a href="https://t.me/Nima_fanniasl">@Nima_fanniasl</a>
 - aparat : <a href="https://aparat.com/smartnima">aparat.com/smartnima</a>
+
+----------------------------
+
+![Nima's github stats](https://github-readme-stats.vercel.app/api?username=nimafanniasl&count_private=true&include_all_commits=true&show_icons=true)
