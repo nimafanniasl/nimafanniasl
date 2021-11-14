@@ -7,11 +7,10 @@
 |_| \_|_|_| |_| |_|\__,_|  |_| \__,_|_| |_|_| |_|_|\__,_|___/_|  (_)
 ```
 
-### Hi there ! , This is Nima!
+### Hi there ! , This is Nima! :rocket:
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/nimafanniasl" alt="profile views"> •
- <a href="https://smartnima.com">Website</a> • <a href="https://aparat.com/smartnima">Aparat</a> • <a href="https://t.me/Nima_fanniasl">Telegram</a>
+  <img src="https://gpvc.arturio.dev/nimafanniasl" alt="profile views"> <img src="https://img.shields.io/github/followers/nimafanniasl"> <a href="https://smartnima.com"><img src="https://img.shields.io/badge/-Check%20out%20my%20website-D50000"></a>
 </p>
 
 -------------------------------------------
