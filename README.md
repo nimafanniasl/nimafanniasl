@@ -14,8 +14,10 @@
 </p>
 
 -------------------------------------------
+<p align="center">
 I am Nima from smartnima Channels And smartnima.com Website! <br>
 I am From Iran!
+</p>
 
 
 - 🔭 I’m currently working on python , c++ , Front-end , LPIC1 & 2 And etc.
