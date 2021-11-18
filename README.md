@@ -14,13 +14,14 @@
 </p>
 
 -------------------------------------------
-i am Nima from smartnima Channels And smartnima.com Website! <br>
-i have 11 years old!
+I am Nima from smartnima Channels And smartnima.com Website! <br>
+I am From Iran!
 
 
 - 🔭 I’m currently working on python , c++ , Front-end , LPIC1 & 2 And etc.
 - 📫 How to reach me: [`info@smartnima.com`](mailto:info@smartnima.com)
 - 💬 Ask me anything about my Projects!
+- ⚡ Fun fact: I have 11 years old!
 
 ----------------------------
 
