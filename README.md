@@ -30,6 +30,13 @@ I am From Iran!
 <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://www.cplusplus.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 <a href="https://wordpress.org/"><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
+
+## 🔗 Connect with me
+<p align="center">
+<a href="t.me/Nima_fanniasl"><img src="https://img.icons8.com/fluency/50/000000/telegram-app.png"/></a>
+ <a href="mailto:info@smartnima.com"><img src="https://img.icons8.com/external-bearicons-blue-bearicons/50/000000/external-email-essential-collection-bearicons-blue-bearicons.png"/></a>
+</p>
+
  
 ## 📊 Stats
 <p align="center">
