@@ -12,8 +12,6 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/nimafanniasl" alt="profile views"> <img src="https://img.shields.io/github/followers/nimafanniasl"> <a href="https://smartnima.com"><img src="https://img.shields.io/badge/-Check%20out%20my%20website-D50000"></a>
 </p>
-
--------------------------------------------
 <p align="center">
 I am Nima from smartnima Channels And smartnima.com Website! <br>
 I am From Iran!
@@ -25,6 +23,11 @@ I am From Iran!
 - 💬 Ask me anything about my Projects!
 - ⚡ Fun fact: I have 11 years old!
 
-----------------------------
-
+## 🛠️ Languages and tools
+<p align="center">
+<a href="https://www.w3.org/html"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+<a href="https://www.linux.org"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
+<a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
+ 
+## 📊 Stats
 ![Nima's github stats](https://github-readme-stats.vercel.app/api?username=nimafanniasl&count_private=true&include_all_commits=true&show_icons=true)
