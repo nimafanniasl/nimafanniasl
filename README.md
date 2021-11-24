@@ -7,7 +7,7 @@
 |_| \_|_|_| |_| |_|\__,_|  |_| \__,_|_| |_|_| |_|_|\__,_|___/_|  (_)
 ```
 
-### Hi there ! , This is Nima! :rocket:
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> , This is Nima! :rocket:
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/nimafanniasl" alt="profile views"> <img src="https://img.shields.io/github/followers/nimafanniasl"> <a href="https://smartnima.com"><img src="https://img.shields.io/badge/-Check%20out%20my%20website-D50000"></a>
@@ -32,4 +32,6 @@ I am From Iran!
 <a href="https://wordpress.org/"><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
  
 ## 📊 Stats
-![Nima's github stats](https://github-readme-stats.vercel.app/api?username=nimafanniasl&count_private=true&include_all_commits=true&show_icons=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nimafanniasl&count_private=true&include_all_commits=true&show_icons=true">
+</p>
