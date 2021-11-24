@@ -28,6 +28,8 @@ I am From Iran!
 <a href="https://www.w3.org/html"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
 <a href="https://www.linux.org"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
 <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
+<a href="https://www.cplusplus.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+<a href="https://wordpress.org/"><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
  
 ## 📊 Stats
 ![Nima's github stats](https://github-readme-stats.vercel.app/api?username=nimafanniasl&count_private=true&include_all_commits=true&show_icons=true)
