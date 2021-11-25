@@ -9,6 +9,8 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> , This is Nima! :rocket:
 
+<img src="https://github-profile-trophy.vercel.app/?username=nimafanniasl&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="Trophies" />
+
 <p align="center">
   <img src="https://gpvc.arturio.dev/nimafanniasl" alt="profile views"> <img src="https://img.shields.io/github/followers/nimafanniasl"> <a href="https://smartnima.com"><img src="https://img.shields.io/badge/-Check%20out%20my%20website-D50000"></a>
 </p>
