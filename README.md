@@ -35,7 +35,7 @@ I am From Iran!
 
 ## 🔗 Connect with me
 <p align="center">
-<a href="t.me/Nima_fanniasl"><img src="https://img.icons8.com/fluency/50/000000/telegram-app.png"/></a>
+<a href="https://t.me/Nima_fanniasl"><img src="https://img.icons8.com/fluency/50/000000/telegram-app.png"/></a>
  <a href="mailto:info@smartnima.com"><img src="https://img.icons8.com/external-bearicons-blue-bearicons/50/000000/external-email-essential-collection-bearicons-blue-bearicons.png"/></a>
 </p>
 
