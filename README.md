@@ -43,5 +43,5 @@ I am From Iran!
 ## 📊 Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nimafanniasl&count_private=true&include_all_commits=true&show_icons=true"> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimafanniasl&hide=ruby&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimafanniasl">
 </p>
