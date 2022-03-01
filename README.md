@@ -1,47 +1,44 @@
-```
- _   _ _                     __                  _           _    _ 
-| \ | (_)                   / _|                (_)         | |  | |
-|  \| |_ _ __ ___   __ _   | |_ __ _ _ __  _ __  _  __ _ ___| |  | |
-| . ` | | '_ ` _ \ / _` |  |  _/ _` | '_ \| '_ \| |/ _` / __| |  | |
-| |\  | | | | | | | (_| |  | || (_| | | | | | | | | (_| \__ \ |  |_|
-|_| \_|_|_| |_| |_|\__,_|  |_| \__,_|_| |_|_| |_|_|\__,_|___/_|  (_)
-```
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Nima Fanniasl&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> , This is Nima! :rocket:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My_Name+%3D+%22Nima%22;Loves%3A+Tech%2C+Programming%2C;Gnu%2FLinux%2C+Open+Source+Software!;IF+(LIKE+MY+WORK)%3A+Follow+And+Star;THNX!)](https://git.io/typing-svg)
 
-<img src="https://github-profile-trophy.vercel.app/?username=nimafanniasl&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="Trophies" />
+<div align="center"><img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=nimafanniasl&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Nima Fanniasl" /></div>
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/nimafanniasl" alt="profile views"> <img src="https://img.shields.io/github/followers/nimafanniasl"> <a href="https://smartnima.com"><img src="https://img.shields.io/badge/-Check%20out%20my%20website-D50000"></a>
-</p>
-<p align="center">
-I am Nima from smartnima Channels And smartnima.com Website! <br>
-I am From Iran!
-</p>
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=nimafanniasl&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Nima Fanniasl github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimafanniasl&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+<div align="center">
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=nimafanniasl&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+### Main skills:
+
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
+
+### Tools:
+
+![Pycharm](https://img.shields.io/badge/-Pycharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
 
-- 🔭 I’m currently working on python , c++ , Front-end , LPIC1 & 2 And etc.
-- 📫 How to reach me: [`info@smartnima.com`](mailto:info@smartnima.com)
-- 💬 Ask me anything about my Projects!
-- ⚡ Fun fact: I have 11 years old!
+### Other Knowledge:
 
-## 🛠️ Languages and tools
-<p align="center">
-<a href="https://www.w3.org/html"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-<a href="https://www.linux.org"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
-<a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
-<a href="https://www.cplusplus.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-<a href="https://wordpress.org/"><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
+![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
 
-## 🔗 Connect with me
-<p align="center">
-<a href="https://t.me/Nima_fanniasl"><img src="https://img.icons8.com/fluency/50/000000/telegram-app.png"/></a>
- <a href="mailto:info@smartnima.com"><img src="https://img.icons8.com/external-bearicons-blue-bearicons/50/000000/external-email-essential-collection-bearicons-blue-bearicons.png"/></a>
-</p>
+### Studying in this moment:
 
- 
-## 📊 Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nimafanniasl&count_private=true&include_all_commits=true&show_icons=true"> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimafanniasl">
-</p>
+![julia](https://img.shields.io/badge/-julia-0D1117?style=for-the-badge&logo=julia&labelColor=0D1117)&nbsp;
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nimafanniasl}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
