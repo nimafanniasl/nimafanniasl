@@ -32,10 +32,6 @@
 
 ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
 
-### Studying in this moment:
-
-![julia](https://img.shields.io/badge/-julia-0D1117?style=for-the-badge&logo=julia&labelColor=0D1117)&nbsp;
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{nimafanniasl}/count.svg" /></p> 
