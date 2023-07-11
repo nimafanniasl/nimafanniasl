@@ -6,9 +6,6 @@
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=nimafanniasl&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Nima Fanniasl github stats" /> 
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimafanniasl&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-<div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=nimafanniasl&theme=react-dark&hide_border=true&area=true" />
-</div>
 
 ### Main skills:
 
