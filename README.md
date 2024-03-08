@@ -29,6 +29,9 @@
 
 ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
 
+### Fun fact: I love learning new languages and I’m trilingual (Persian, Azari Turkish, and English)
+And I’m learning another language right now :)))
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{nimafanniasl}/count.svg" /></p> 
