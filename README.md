@@ -17,21 +17,18 @@
 ![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&logoColor=f70000&labelColor=0D1117)&nbsp;
 ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-0D1117?style=for-the-badge&logo=gnometerminal&labelColor=0D1117)&nbsp;
 
+### Frameworks/libraries I use a lot :D
+![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
+![Selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
+
 ### Tools:
 
+![Pycharm](https://img.shields.io/badge/-pycharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=FDEE21&labelColor=0D1117)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-
-
-### Other Knowledge:
-
-![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
-
-### Fun fact:
-I love learning new languages and I’m trilingual (Persian, Azari Turkish, and English)
-And I’m learning another language right now :)))
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
