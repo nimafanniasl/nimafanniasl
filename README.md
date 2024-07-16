@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My_Name+%3D+%22Nima%22;Loves%3A+Tech%2C+Programming%2C;Gnu%2FLinux%2C+Open+Source+Software!;IF+(LIKE+MY+WORK)%3A+Follow+And+Star;THNX!)](https://git.io/typing-svg)
+<div align="center"><a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+&duration=3000&pause=600&color=00BFBF&center=true&width=435&lines=Hey!+I'm+Nima+%3AD;I'm+a+Programmer+and+Full-Stack+Developer;%26+I+love+using+%26+developing+FOSS+Projects;I+can+code+in+Python%2C+C%2FC%2B%2B%2C+Front-end%2C+Rust;And+libreries+like+Django%2C+Selenium%2C+BS4+etc;You+can+Follow+me+Here%2C+%26+at+YT%2F%40smartnima;And+Also+go+to+my+website+at+smartnima.com" alt="Typing SVG" /></a></div>
 
 <div align="center"><img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=nimafanniasl&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Nima Fanniasl" /></div>
 
